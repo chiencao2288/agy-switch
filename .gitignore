@@ -1,0 +1,12 @@
+# Credentials & profile data (MUST NEVER BE COMMITTED)
+profiles/
+.agy-profiles/
+*.keyring
+*.jsonl
+*.log
+
+# Environment & OS files
+.env
+.DS_Store
+*~
+*.swp
